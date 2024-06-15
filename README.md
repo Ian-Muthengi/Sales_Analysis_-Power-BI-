@@ -10,5 +10,5 @@ The dataset utilized for this analysis is the "sales_data.csv" file, which compr
 
 ### Tools
 - Excel - Data Cleaning  [Download here](https://microsoft.com)
-- QL Server - Data Analysis
+- SQL Server - Data Analysis [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - PowerBI - Creating reports
