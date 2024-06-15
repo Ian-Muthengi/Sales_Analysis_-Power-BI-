@@ -9,6 +9,6 @@ This data analysis project delves into the sales performance of an e-commerce co
 The dataset utilized for this analysis is the "sales_data.csv" file, which comprises comprehensive details regarding every sale conducted by the company.
 
 ### Tools
-- Excel - Data Cleaning  [Download here](https://microsoft.com)
+- Excel - Data Cleaning  [Download here]([https://microsoft.com](https://www.microsoft.com/en-us/microsoft-365/download-office))
 - SQL Server - Data Analysis [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- PowerBI - Creating reports
+- PowerBI - Creating reports [Download here](https://powerbi.microsoft.com/en-us/downloads/)
