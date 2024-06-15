@@ -66,8 +66,6 @@ output_file = 'C:/Users/ian.muthengi/Downloads/transposed_sales.xlsx'
 # Write the transposed DataFrame to a new CSV file
 df_transposed.to_excel(output_file, index=True, header=False)
 ```
-3. Power BI
-
 ### Results/Findings
 The analysis results are summarized as follows:
 
