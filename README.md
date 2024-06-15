@@ -1,6 +1,7 @@
 # Sales Analysis
 
 ## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Tools](#tools)
 - [Data Analysis](#data-analysis)
@@ -10,8 +11,9 @@
 
 This data analysis project delves into the sales performance of an e-commerce company across 2021 and 2022. Our goal is to uncover trends, offer data-driven recommendations, and achieve a comprehensive grasp of the company's performance by scrutinizing different facets of the sales data. This includes examining factors such as product sales patterns, sales types, seasonal variations, and payment modes to extract actionable insights and improve strategic decision-making processes.
 
-### Data Sources
+<img width="612" alt="Sales picture" src="https://github.com/IanLiam/Sales_Analysis_-Power-BI-/assets/117744677/01fdaac2-bf34-4d3a-b9d5-7c08406d5dad">
 
+### Data Sources
 The dataset utilized for this analysis is the "sales_data.csv" file, which comprises comprehensive details regarding every sale conducted by the company.
 
 ### Tools
