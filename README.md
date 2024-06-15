@@ -9,6 +9,6 @@ This data analysis project delves into the sales performance of an e-commerce co
 The dataset utilized for this analysis is the "sales_data.csv" file, which comprises comprehensive details regarding every sale conducted by the company.
 
 ### Tools
-- Excel - Data Cleaning  [Download here](microsoft.com)
+- Excel - Data Cleaning  [Download here](https://microsoft.com)
 - QL Server - Data Analysis
 - PowerBI - Creating reports
